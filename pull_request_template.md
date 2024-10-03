@@ -4,9 +4,9 @@ What does this PR do?
 
 **Ticket/Issue Reference:**  PROJ-123 / #123
 
-## Testing Plan
+## How do we deploy & test this?
 
-How can we test this?
+How will this PR be deployed and tested?
 
 ## Checklist
 
