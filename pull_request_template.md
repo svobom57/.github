@@ -1,6 +1,4 @@
-## Description
-
-What does this PR do?
+<!--- What does this PR do? This should ideally get filled out by Github from your commit message. -->
 
 **Ticket/Issue Reference:**  PROJ-123 / #123
 
